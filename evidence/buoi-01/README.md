@@ -4,12 +4,19 @@ Thư mục này dùng để nộp minh chứng thiết lập môi trường lab.
 
 ## Sinh viên điền thông tin
 
-- Họ tên:
-- Mã sinh viên:
-- Nhóm:
-- Vai trò dự kiến trong nhóm:
-- Hệ điều hành:
-- Ghi chú:
+- Họ tên: Nguyễn Xuân Anh
+- Mã sinh viên: 1771020014
+- Nhóm: 3
+- Vai trò dự kiến trong nhóm: 
+
+| Thành viên          | Vai trò                   |
+| ------------------- | ------------------------- |
+| Nguyễn Xuân Anh     | Backend & API Development |
+| Vũ Đức Nguyễn Chuẩn | DevOps & Deployment       |
+| Tăng Tất Cương      | Database & QA Testing     |
+
+- Hệ điều hành: Window
+- Ghi chú: 
 
 ## Các file minh chứng nên có
 
